@@ -437,7 +437,7 @@ For exact reproducibility, it is recommended to create an environment using the 
 ## Running the Project
 
 1. Obtain the HotelRec dataset from the official source.(https://github.com/diegoantognini/HotelRec)
-2. Place the required raw dataset inside the `raw_dataset/` directory.
+2. Place the required raw dataset. inside the directory.
 3. Update the dataset path in the notebook if necessary.
 4. Install the required Python dependencies.
 5. Open the Jupyter Notebook.
